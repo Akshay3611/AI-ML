@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Dec 10 13:15:16 2021
+@author: Akshay
 
-@author: Rex-laptop
+This is a demo project on petrol consumption
 """
 # Project 1
 import pandas as pd
